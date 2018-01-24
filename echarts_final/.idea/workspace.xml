@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f4ef4c6-fb8b-4e85-b59c-3676f08f78e0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/jquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showhide.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/showhide.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2919">
+              <caret line="139" column="40" lean-forward="false" selection-start-line="139" selection-start-column="40" selection-end-line="139" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getcompletedata</find>
+      <find>compare</find>
+      <find>row</find>
+      <find>console</find>
+      <find>serverdic</find>
+      <find>try</find>
+      <find>geo</find>
+      <find>15483</find>
+      <find>ab</find>
+      <find>abnormal</find>
+      <find>content</find>
+      <find>tracecount</find>
+      <find>hsarr</find>
+      <find>newsecarr</find>
+      <find>DEST_SITE_NAME</find>
+      <find>detailarrsec</find>
+      <find>jearr</find>
+      <find>trim</find>
+      <find>detailcount</find>
+      <find>deachtb0</find>
+      <find>tracedatain</find>
+      <find>tracedata</find>
+      <find>getElementById</find>
+      <find>jouttb</find>
+      <find>tracetypetype</find>
+      <find>deachtb</find>
+      <find>detail1</find>
+      <find>detail</find>
+      <find>mydetail</find>
+      <find>alert</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/china.js" />
+        <option value="$PROJECT_DIR$/js/shipping_map.js" />
+        <option value="$PROJECT_DIR$/text/map11.html" />
+        <option value="$PROJECT_DIR$/test/map11.html" />
+        <option value="$PROJECT_DIR$/js/shippingmap.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/example.js" />
+        <option value="$PROJECT_DIR$/data/data.json" />
+        <option value="$PROJECT_DIR$/js/getbar.js" />
+        <option value="$PROJECT_DIR$/js/gethtml.js" />
+        <option value="$PROJECT_DIR$/data/serverdata.json" />
+        <option value="$PROJECT_DIR$/js/index.html" />
+        <option value="$PROJECT_DIR$/js/serverparcer.js" />
+        <option value="$PROJECT_DIR$/data/geoCoord.json" />
+        <option value="$PROJECT_DIR$/js/getgeoCoord.js" />
+        <option value="$PROJECT_DIR$/data/complete.json" />
+        <option value="$PROJECT_DIR$/js/completeparcer.js" />
+        <option value="$PROJECT_DIR$/js/serverdataparcer.js" />
+        <option value="$PROJECT_DIR$/data/tinyserverdata.json" />
+        <option value="$PROJECT_DIR$/data/demo1.json" />
+        <option value="$PROJECT_DIR$/data/complete2.json" />
+        <option value="$PROJECT_DIR$/js/demo1.js" />
+        <option value="$PROJECT_DIR$/extension/BMap/doc/exampleold.js" />
+        <option value="$PROJECT_DIR$/js/test.html" />
+        <option value="$PROJECT_DIR$/js/demo2.js" />
+        <option value="$PROJECT_DIR$/data/informat.json" />
+        <option value="$PROJECT_DIR$/js/showhide.js" />
+        <option value="$PROJECT_DIR$/extension/BMap/doc/example.html" />
+        <option value="$PROJECT_DIR$/extension/BMap/doc/example.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-16" />
+    <option name="width" value="1301" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="echarts_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echarts_final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echarts_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echarts_final" type="462c0819:PsiDirectoryNode" />
+              <item name="extension" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echarts_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echarts_final" type="462c0819:PsiDirectoryNode" />
+              <item name="extension" type="462c0819:PsiDirectoryNode" />
+              <item name="BMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echarts_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echarts_final" type="462c0819:PsiDirectoryNode" />
+              <item name="extension" type="462c0819:PsiDirectoryNode" />
+              <item name="BMap" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\cs\workspace\shipping_workspace\www\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cs\workspace\shipping_workspace\echart_map\data" />
+      <recent name="D:\cs\workspace\shipping_workspace\extension\BMap\doc" />
+      <recent name="D:\cs\workspace\shipping_workspace\data" />
+      <recent name="D:\cs\workspace\shipping_workspace\js" />
+      <recent name="D:\cs\workspace\shipping_workspace" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.example.html (3)">
+    <configuration name="example.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/echart_map/extension/BMap/doc/example.html" />
+    <configuration name="example.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/echarts_final/extension/BMap/doc/example.html" />
+    <configuration name="example.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/shipping_workspace/extension/BMap/doc/example.html" />
+    <configuration name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/shipping_workspace/js/test.html" />
+    <configuration name="example.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="example.js" working-dir="$PROJECT_DIR$/extension/BMap/doc" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.example.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.example.html (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.example.js" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.example.html (3)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.example.html (3)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.example.html (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.example.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.example.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f4ef4c6-fb8b-4e85-b59c-3676f08f78e0" name="Default" comment="" />
+      <created>1516173114806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516173114806</updated>
+      <workItem from="1516173116198" duration="7729000" />
+      <workItem from="1516182023515" duration="61000" />
+      <workItem from="1516251530431" duration="1499000" />
+      <workItem from="1516253322333" duration="10870000" />
+      <workItem from="1516422125130" duration="8490000" />
+      <workItem from="1516498108588" duration="43384000" />
+      <workItem from="1516587156075" duration="27670000" />
+      <workItem from="1516673875791" duration="35598000" />
+      <workItem from="1516759581183" duration="14826000" />
+      <workItem from="1516777930179" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="150164000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13385417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39825898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/china.js" />
+    <entry file="file://$PROJECT_DIR$/data/a.json" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/china.js" />
+    <entry file="file://$PROJECT_DIR$/data/a.json" />
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.2.1.js" />
+    <entry file="file://$PROJECT_DIR$/js/china.js" />
+    <entry file="file://$PROJECT_DIR$/text/asset/css/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/text/map11.html" />
+    <entry file="file://$PROJECT_DIR$/test/map11.html" />
+    <entry file="file://$PROJECT_DIR$/www/js/chart/k.js" />
+    <entry file="file://$PROJECT_DIR$/js/shipping_map.js" />
+    <entry file="file://$PROJECT_DIR$/js/echarts.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/www/js/chart/map.js" />
+    <entry file="file://$PROJECT_DIR$/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/js/shippingmap.js" />
+    <entry file="file://$PROJECT_DIR$/js/example.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/doc/asset/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data.json" />
+    <entry file="file://$PROJECT_DIR$/js/base64.js" />
+    <entry file="file://$PROJECT_DIR$/js/getbar.js" />
+    <entry file="file://$PROJECT_DIR$/data/a.json" />
+    <entry file="file://$PROJECT_DIR$/js/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/gethtml.js" />
+    <entry file="file://$PROJECT_DIR$/data/complete.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/demo1.json" />
+    <entry file="file://$PROJECT_DIR$/data/geocoord.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/complete.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/serverdata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="0" column="25312" lean-forward="true" selection-start-line="0" selection-start-column="25312" selection-end-line="0" selection-end-column="25312" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/tinyserverdata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="715" column="4" lean-forward="true" selection-start-line="715" selection-start-column="4" selection-end-line="715" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extension/BMap/doc/exampleold.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="408" column="1" lean-forward="false" selection-start-line="408" selection-start-column="1" selection-end-line="408" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/complete2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/in_2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="0" column="703" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="69156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/out_1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/outformat.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/informat.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63567">
+          <caret line="3027" column="1" lean-forward="false" selection-start-line="3027" selection-start-column="1" selection-end-line="3027" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extension/BMap/doc/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="420" column="0" lean-forward="true" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#thead#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#thead#0;n#table#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extension/BMap/doc/example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="1358" column="25" lean-forward="true" selection-start-line="1358" selection-start-column="25" selection-end-line="1358" selection-end-column="25" />
+          <folding>
+            <element signature="e#9301#9744#0" expanded="false" />
+            <element signature="e#17659#22224#0" expanded="false" />
+            <element signature="e#24392#26154#0" expanded="false" />
+            <element signature="e#27971#29483#0" expanded="false" />
+            <element signature="e#29501#31013#0" expanded="false" />
+            <element signature="e#31031#32543#0" expanded="false" />
+            <element signature="e#32561#34073#0" expanded="false" />
+            <element signature="e#34091#35603#0" expanded="false" />
+            <element signature="e#35621#37133#0" expanded="false" />
+            <element signature="e#37151#38663#0" expanded="false" />
+            <element signature="e#38681#40193#0" expanded="false" />
+            <element signature="e#40211#40877#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/completeparcer.js" />
+    <entry file="file://$PROJECT_DIR$/js/demo1.js" />
+    <entry file="file://$PROJECT_DIR$/js/demo2.js" />
+    <entry file="file://$PROJECT_DIR$/js/getgeoCoord.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/serverdataparcer.js" />
+    <entry file="file://$PROJECT_DIR$/js/showhide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2919">
+          <caret line="139" column="40" lean-forward="false" selection-start-line="139" selection-start-column="40" selection-end-line="139" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inout/in_2.json" />
+    <entry file="file://$PROJECT_DIR$/inout/out_1.json" />
+    <entry file="file://$PROJECT_DIR$/js/test.html" />
+  </component>
+</project>
